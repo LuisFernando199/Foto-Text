@@ -1,0 +1,5 @@
+confluence.cloud.lacaixa.es/confluence/pages/viewpage.action?pageId=141862653
+confluence.cloud.lacaixa.es/confluence/display/herrQlik/FAQs
+confluence.cloud.lacaixa.es/confluence/display/coptdtnw/Tutoriales+Qlik+Sense
+
+

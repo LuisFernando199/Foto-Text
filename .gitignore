@@ -1,0 +1,6 @@
+Include/
+Lib/
+Scripts/
+*pyvenv.cfg
+*img1.png
+*img2.png
